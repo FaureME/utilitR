@@ -1,4 +1,4 @@
-bookdown::gitbook:
+bookdown::bs4_book:
   css:
 # - css/default-fonts.css
   - css/default.css
